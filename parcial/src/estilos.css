@@ -1,0 +1,49 @@
+.errorMsg {
+    color: red;
+    font-size: 30px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+}
+
+.labelInputs {
+    margin-bottom: 35px;
+    width: 90%;
+}
+
+.label {
+    margin-right: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button {
+    width: 150px;
+    font-size: 22px;
+}
+
+.input {
+    height: 25px;
+}
+
+#segundo {
+    padding-left: 58px;
+}
+
+
+.cardDiv {
+    height: 100px;
+    width: 1100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid greenyellow;
+}
+
